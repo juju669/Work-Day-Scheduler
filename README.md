@@ -17,6 +17,5 @@ https://github.com/juju669/Work-Day-Scheduler.git
 
 # Web site link
 
-https://github.com/juju669/Work-Day-Scheduler.git
-
+https://juju669.github.io/Work-Day-Scheduler/
 
